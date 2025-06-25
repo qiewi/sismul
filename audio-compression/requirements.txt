@@ -1,0 +1,5 @@
+pydub
+ffmpeg-python
+matplotlib
+numpy
+scipy
